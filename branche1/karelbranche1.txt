@@ -1,0 +1,3 @@
+prenom:Karel
+nom:NKONO
+specialite: Tronc commun
